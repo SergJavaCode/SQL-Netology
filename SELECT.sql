@@ -1,0 +1,1 @@
+SELECTt name, surname FROM netology_task.person WHERE city_of_living = 'Moscow'
